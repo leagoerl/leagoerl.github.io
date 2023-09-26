@@ -4,7 +4,7 @@ permalink: "/"
 title: "Lea Goerl.</strong>"
 description: "Portfolio."
 meta_description: "Lea Goerl Portfolio"
-meta_title: Jekyll Curate
+meta_title: Lea Goerl Portfolio
 subscribe: false
 
 projects:

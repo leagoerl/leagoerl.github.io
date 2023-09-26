@@ -1,6 +1,6 @@
 ---
 layout: project-top
-title: "Subway"
+title: "myStress"
 description: "An open source machine learning library written in Python"
 date: 2018-12-20
 weight: 4

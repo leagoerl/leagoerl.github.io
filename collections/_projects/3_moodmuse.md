@@ -1,5 +1,5 @@
 ---
-layout: project # alternative layouts: project, project-left, project-right, project-top
+layout: project-left # alternative layouts: project, project-left, project-right, project-top
 title: "MoodMuse"
 description: "Breathing new life into old industrial estates"
 date: 2018-12-20
