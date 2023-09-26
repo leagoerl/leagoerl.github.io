@@ -7,7 +7,7 @@ weight: 4
 permalink: /projects/project-4
 thumbnail: "/assets/images/gen/projects/project-4-6-thumbnail.webp"
 image: "/assets/images/gen/projects/project-4-1.webp"
-client: "Detecting Technostress via Smartphone for scientific purpose"
+client: "Detecting Technostress via technical usage behavior"
 categories: ["Development"]
 role: "Building Designer & Software Developer"
 gallery:

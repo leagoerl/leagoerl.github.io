@@ -7,7 +7,7 @@ weight: 3
 thumbnail: "/assets/images/gen/projects/project-2-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-2-1.webp"
 categories: ["Development"]
-client: "Application for affective Computing and Empathic Artificial Intelligence"
+client: "Making Music with affective Computing and Empathic Artificial Intelligence"
 role: "Building Designer & Software Developmer"
 gallery:
   - image: "/assets/images/gen/projects/project-2-1.webp"

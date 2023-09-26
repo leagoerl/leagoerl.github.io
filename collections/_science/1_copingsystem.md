@@ -1,14 +1,14 @@
 ---
 layout: project-right
-title: "UrbanPulse"
+title: "Towards Designing a Mobile Stress Coping Assistant"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
 date: 2023
 weight: 1
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
 image: "/assets/images/gen/projects/4_urbanpulse.webp"
 categories: ["Innovation and Design Development"]
-client: "App Design for a new way to experience light"
-role: "Building Designer"
+client: "HCICSS"
+role: "Reseacher"
 gallery:
   - image: "/assets/images/gen/projects/project-1-1.webp"
     caption: "<strong>Above:</strong> North easterly aspect showing curved design"
