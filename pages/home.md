@@ -11,7 +11,7 @@ projects:
   heading: ""
   sub_heading: ""
   limit: 6
-  sort: weight
+  sort: -weight
   view_more_button_text: ""
   view_more_button_link: ""
   view_more_button_align: ""
@@ -21,7 +21,7 @@ science:
   heading: ""
   sub_heading: ""
   limit: 2
-  sort: weight
+  sort: -weight
   view_more_button_text: ""
   view_more_button_link: ""
   view_more_button_align: ""

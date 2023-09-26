@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: post
 title: Science
 permalink: "/science/"
 ---

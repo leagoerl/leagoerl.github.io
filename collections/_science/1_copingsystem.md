@@ -1,20 +1,12 @@
 ---
-layout: project-right
+layout: post
 title: "Towards Designing a Mobile Stress Coping Assistant"
-description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
-date: 2023
-weight: 1
-thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
-image: "/assets/images/gen/projects/4_urbanpulse.webp"
-categories: ["Innovation and Design Development"]
-client: "HCICSS"
-role: "Reseacher"
-gallery:
-  - image: "/assets/images/gen/projects/project-1-1.webp"
-    caption: "<strong>Above:</strong> North easterly aspect showing curved design"
-  - image: "/assets/images/gen/projects/project-1-2.webp"
-    caption: "<strong>Above:</strong> Rear offices square design in contrast"
-gallery_limit: 2
+date: 2018-09-13T05:22:42Z
+authors: ["Lea Goerl"]
+categories: ["Research"]
+description: "Hosting your website as a static site will improve performance and improve security."
+thumbnail: "/assets/images/gen/blog/blog-1-thumbnail.webp"
+image: "/assets/images/gen/blog/blog-1.webp"
 ---
 
 Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
