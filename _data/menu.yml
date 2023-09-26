@@ -18,12 +18,12 @@ main:
       - name: "myStress"
         description: "Detecting Technostress via technical usage behavior"
         url: /projects/1_myStress/
-  - name: Science
-    url: /science/
+  - name: Research
+    url: /research/
     child:
       - name: "Towards Designing a Mobile Stress Coping Assistant"
         description: "HICSS"
-        url: /science/1_copingsystem/
+        url: /research/1_copingsystem/
     weight: 3
   - name: Blog
     url: /blog/
@@ -37,14 +37,14 @@ main:
   
 
 footer_primary:
-  - name: "Project Layout 1"
-    url: /projects/project-1/
-  - name: "Project Layout 2"
-    url: /projects/project-2/
-  - name: "Project Layout 3"
-    url: /projects/project-3/
-  - name: "Project Layout 4"
-    url: /projects/project-4/
+  - name: "UrbanPulse"
+    url: /projects/4_urbanpulse/
+  - name: "MoodMuse"
+    url: /projects/3_moodmuse/
+  - name: "ControlFreedom"
+    url: /projects/2_controlfreedom/
+  - name: "myStress"
+    url: /projects/1_myStress/
 
 footer_secondary:
   - name: Blog
@@ -56,20 +56,19 @@ footer_secondary:
   - name: Contact
     url: /contact/
     weight: 4
-  - name: Privacy Policy
-    url: /privacy-policy/
-    weight: 1
-  - name: Terms and Conditions
-    url: /terms-and-conditions/
-    weight: 2
 
 footer_tertiary:
-  - name: Privacy Policy
-    url: /privacy-policy/
-    weight: 1
-  - name: Terms and Conditions
-    url: /terms-and-conditions/
-    weight: 2
+  - name: "Towards Designing a Mobile Stress Coping Assistant"
+    url: /research/1_copingsystem
+
+
+#footer_tertiary:
+#  - name: Privacy Policy
+#    url: /privacy-policy/
+#    weight: 1
+#  - name: Terms and Conditions
+#    url: /terms-and-conditions/
+#    weight: 2
 
 bottom:
   - name: Privacy Policy
