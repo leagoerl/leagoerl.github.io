@@ -17,8 +17,8 @@ projects:
   view_more_button_align: ""
   columns: 2 # 1 | 2 | 3 | 4
 
-science:
-  heading: ""
+research:
+  heading: "Recent Research"
   sub_heading: ""
   limit: 2
   sort: -weight

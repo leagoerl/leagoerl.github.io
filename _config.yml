@@ -154,7 +154,7 @@ menu:
 footer:
   enable_footer: true # show/hide the entire footer
   footer_title: "Lea Goerl"
-  footer_description: "Driving by humane technology."
+  footer_description: "Driving for humane technology."
   enable_social_media_icons: true
   enable_contact_details: false
   enable_menu_footer_primary: true
