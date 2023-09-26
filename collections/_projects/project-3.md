@@ -1,14 +1,14 @@
 ---
 layout: project-left
-title: "Cubist Urban Home"
+title: "Control Freedom"
 description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
 date: 2018-12-20
 weight: 2
 thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-3-1.webp"
-client: "Region of Valencia"
+client: "Eye Tracking Game for Virtuell Reality"
 categories: ["Development"]
-role: "Building Designer"
+role: "Building Designer & Software Developer"
 gallery:
   - image: "/assets/images/gen/projects/project-3-1.webp"
   - image: "/assets/images/gen/projects/project-3-4.webp"

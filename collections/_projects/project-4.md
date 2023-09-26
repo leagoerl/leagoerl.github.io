@@ -7,9 +7,9 @@ weight: 4
 permalink: /projects/project-4
 thumbnail: "/assets/images/gen/projects/project-4-6-thumbnail.webp"
 image: "/assets/images/gen/projects/project-4-1.webp"
-client: "RGA Agency"
+client: "Detecting Technostress via Smartphone for scientific purpose"
 categories: ["Development"]
-role: "Building Designer"
+role: "Building Designer & Software Developer"
 gallery:
   - image: "/assets/images/gen/projects/project-4-1.webp"
   - image: "/assets/images/gen/projects/project-4-4.webp"
