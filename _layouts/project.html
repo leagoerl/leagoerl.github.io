@@ -9,6 +9,17 @@ body_classes: page-project
   <div class="container">
     <div class="row">
 
+      <div class="col-12 col-md-6 mb-6 mb-md-0">
+        <div class="gallery gallery-single-column">
+          {% for item in page.gallery limit: limit %}
+            <div class="gallery-item">
+              <div class="gallery-image"><img src="{{ item.image | relative_url }}"/></div>
+              <div class="gallery-caption">{{ item.caption }}</div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+
       <div class="col-12 col-md-6 mb-4">
 
         {% if page.title %}
@@ -36,18 +47,6 @@ body_classes: page-project
             <strong>Role </strong><span>{{ page.role }}</span>
           </div>
         {% endif %}
-
-        <div class="gallery gallery-masonry">
-          {% for item in page.gallery limit: limit %}
-            <div class="gallery-item">
-              <div class="gallery-image"><img src="{{ item.image | relative_url }}"/></div>
-              {% if item.caption %}
-              <div class="gallery-caption">{{ item.caption }}</div>
-              {% endif %}
-            </div>
-          {% endfor %}
-        </div>
-      </div>
 
       <div class="col-12 col-md-6">
         <div class="content">{{ content }}</div>
