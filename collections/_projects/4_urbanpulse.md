@@ -6,9 +6,9 @@ weight: 1
 thumbnail: "/assets/images/gen/projects/4_urbanpulse.webp"
 image: "/assets/images/gen/projects/4_urbanpulse.webp"
 categories: ["Innovation and Design Development"]
-Final report:
-Final presentation:
-Links:
+Final report: "xy"
+Final presentation: "XY"
+Links: "XY"
 role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/project-1-1.webp"
