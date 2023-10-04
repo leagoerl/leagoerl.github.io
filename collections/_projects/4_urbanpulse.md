@@ -2,8 +2,8 @@
 layout: project-right
 title: "UrbanPulse"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
-weight: 4
-thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
+weight: 1
+thumbnail: "/assets/images/gen/projects/4_urbanpulse.webp"
 image: "/assets/images/gen/projects/4_urbanpulse.webp"
 categories: ["Innovation and Design Development"]
 client: "App Design for a new way to experience light"

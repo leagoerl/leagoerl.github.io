@@ -8,7 +8,7 @@ meta_title: Lea Goerl Portfolio
 subscribe: false
 
 projects:
-  heading: ""
+  heading: "Projects"
   sub_heading: ""
   limit: 6
   sort: weight

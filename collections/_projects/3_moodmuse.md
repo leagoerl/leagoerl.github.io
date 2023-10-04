@@ -3,7 +3,7 @@ layout: project-left # alternative layouts: project, project-left, project-right
 title: "MoodMuse"
 description: "Breathing new life into old industrial estates"
 date: 2018-12-20
-weight: 3
+weight: 2
 thumbnail: "/assets/images/gen/projects/project-2-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-2-1.webp"
 categories: ["Development"]
