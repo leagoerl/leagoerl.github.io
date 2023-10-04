@@ -9,8 +9,8 @@ categories: ["Innovation and Design Development"]
 client: "App design"
 role: "Building Designer"
 gallery:
-  - image: "/assets/images/gen/projects/project-1-1.webp"
-    caption: "<strong>Above:</strong> North easterly aspect showing curved design"
+  - image: "/assets/images/gen/projects/4_urbanpulse.webp"
+    caption: "<strong>Above:</strong> Final design concept of the Urban Pulse application"
   - image: "/assets/images/gen/projects/project-1-2.webp"
     caption: "<strong>Above:</strong> Rear offices square design in contrast"
 gallery_limit: 2
