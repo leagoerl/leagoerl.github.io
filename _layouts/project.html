@@ -25,14 +25,6 @@ body_classes: page-project
           </div>
         {% endif %}
 
-        {% if page.categories %}
-          <div class="project-description">
-          {% include framework/blocks/components/description-badges.html 
-              description=page.description
-          %}
-          </div>
-        {% endif %}
-
         {% if page.date %}
           <div class="project-date">
             <strong>Date </strong><span>{{ page.date | date: "%Y" }}</span>

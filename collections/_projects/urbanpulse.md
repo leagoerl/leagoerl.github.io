@@ -5,7 +5,7 @@ description: "Your unique atmosphere in public places"
 weight: 1
 thumbnail: "/assets/images/gen/projects/urbanpulse.webp"
 image: "/assets/images/gen/projects/urbanpulse.webp"
-categories: ["Innovation and Design Development"]
+categories: ["Your unique atmosphere in public places"]
 role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/urbanpulse.webp"
