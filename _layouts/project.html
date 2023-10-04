@@ -37,16 +37,6 @@ body_classes: page-project
           </div>
         {% endif %}
 
-      </div>
-
-      <div class="col-12 col-md-6">
-        <div class="content">{{ content }}</div>
-      </div>
-
-    </div>
-
-    <div class="row">
-      <div class="col-12 col-md-6">
         <div class="gallery gallery-masonry">
           {% for item in page.gallery limit: limit %}
             <div class="gallery-item">
@@ -58,6 +48,11 @@ body_classes: page-project
           {% endfor %}
         </div>
       </div>
+
+      <div class="col-12 col-md-6">
+        <div class="content">{{ content }}</div>
+      </div>
+
     </div>
   </div>
 </div>
