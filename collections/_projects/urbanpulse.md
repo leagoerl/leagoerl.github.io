@@ -11,7 +11,7 @@ gallery:
   - image: "/assets/images/gen/projects/urbanpulse.webp"
     caption: "<strong>Above:</strong> Final design concept of the Urban Pulse application"
 gallery_limit: 2
-vimeoId: eQEaNh8p5iw
+vimeoId: eQEaNh8p5iw?si=niUpKUMSfKTXroKe
 ---
 
 UrbanPulse is an application providing the ability for individuals or social groups to book street lighting in public places in a smart city. The concept relies on a speculative vision of the future, where we assume that we live in an advanced smart city where people can reserve street lights, especially in public park facilities, and utilize them individually via digital devices, such as smart- phones. Meanwhile, we aim to generate individual personalized atmospheres in the city and to manage through lighting control the consumption of individuals and the urban community, reducing pollution.
