@@ -18,7 +18,7 @@ UrbanPulse is an application providing the ability for individuals or social gro
 
 As part of a Design Workshop with the topic ”Personal Light Environments” my team researched how to develop applications for managing illumination in our everyday lives. The following questions constituted the foundation of our design elaboration: How is light controlled? How can light augment personal topics? How can we capture and react to dynamic situations in everyday life? How can the app interface with the real world? Can the real world be an extension of the app context or the app interface? How can light support our everyday life?
 
-[Download the full report here ](/files/UrbanPulse_FinalReport.pdf)
+[Download the full report here](/files/UrbanPulse_FinalReport.pdf)
 
 In particular, UrbanPulse like to adress the following user needs:
 1. Creation of indiviudal atmosphere in the city
