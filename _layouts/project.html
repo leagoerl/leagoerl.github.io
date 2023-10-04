@@ -32,10 +32,22 @@ body_classes: page-project
         {% endif %}
 
         {% if page.client %}
-          <div class="project-client">
-            <strong>Client </strong><span>{{ page.client }}</span>
+          <div class="project-final-report">
+            <strong>Final report </strong><span>{{ page.client }}</span>
           </div>
         {% endif %}
+
+        {% if page.client %}
+        <div class="project-final-presentation">
+          <strong>Final presentation </strong><span>{{ page.client }}</span>
+        </div>
+      {% endif %}
+
+      {% if page.client %}
+      <div class="project-link">
+        <strong>Links </strong><span>{{ page.client }}</span>
+      </div>
+    {% endif %}
 
         {% if page.role %}
           <div class="project-role">

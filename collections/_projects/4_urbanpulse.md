@@ -1,11 +1,14 @@
 ---
-layout: project-right
+layout: project
 title: "UrbanPulse"
 description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
 weight: 1
 thumbnail: "/assets/images/gen/projects/4_urbanpulse.webp"
 image: "/assets/images/gen/projects/4_urbanpulse.webp"
 categories: ["Innovation and Design Development"]
+Final report:
+Final presentation:
+Links:
 role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/project-1-1.webp"
