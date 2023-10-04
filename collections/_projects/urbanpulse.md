@@ -27,7 +27,7 @@ In particular, UrbanPulse like to adress the following user needs:
 
 The following product video gives a short wrap up of the key features of the application.
 
-{% include youtube.html id="https://www.youtube.com/watch?v=eQEaNh8p5iw" %}
-
-
+[![Product Video of Urban Pulse]
+(https://i3.ytimg.com/vi/eQEaNh8p5iw/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=eQEaNh8p5iw
 
