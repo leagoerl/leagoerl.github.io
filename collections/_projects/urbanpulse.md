@@ -13,7 +13,6 @@ gallery:
     caption: "<strong>Above:</strong> Final design concept of the Urban Pulse application"
 gallery_limit: 2
 vimeoId: eQEaNh8p5iw
-pdf_file: "/files/UrbanPulse_FinalReport.pdf"
 ---
 
 UrbanPulse is an application providing the ability for individuals or social groups to book street lighting in public places in a smart city. The concept relies on a speculative vision of the future, where we assume that we live in an advanced smart city where people can reserve street lights, especially in public park facilities, and utilize them individually via digital devices, such as smart- phones. Meanwhile, we aim to generate individual personalized atmospheres in the city and to manage through lighting control the consumption of individuals and the urban community, reducing pollution.
@@ -21,5 +20,6 @@ UrbanPulse is an application providing the ability for individuals or social gro
 As part of a Design Workshop with the topic ”Personal Light Environments” my team researched how to develop applications for managing illumination in our everyday lives. The following questions constituted the foundation of our design elaboration: How is light controlled? How can light augment personal topics? How can we capture and react to dynamic situations in everyday life? How can the app interface with the real world? Can the real world be an extension of the app context or the app interface? How can light support our everyday life?
 
 {% include youtubePlayer.html id=page.youtubeId %}
-{% pdf {{ page.pdf_file }} %}
+{% pdf "/files/UrbanPulse_FinalReport.pdf" width=350px height=500px %}
+
 
