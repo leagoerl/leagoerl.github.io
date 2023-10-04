@@ -41,7 +41,7 @@ body_classes: page-home
 
 {% assign cards = site.projects %}
 {% if cards.size > 0 %}
-<div class="section bg-base-bg-2">
+<div class="section pt-0">
   <div class="container">
     <div class="row">
      
@@ -67,7 +67,7 @@ body_classes: page-home
 
 {% assign cards = site.posts %}
 {% if cards.size > 0 %}
-<div class="section pt-0">
+<div class="section bg-base-bg-2">
   <div class="container">
     <div class="row">
       {% include framework/blocks/components/grid-header.html heading="Recent Research" %}
@@ -86,6 +86,7 @@ body_classes: page-home
 </div>
 {% endif %}
 
+<div class="section pt-0"></div>
 
 {% if site.mailchimp.form_action_url %}
 {% if page.subscribe %}
