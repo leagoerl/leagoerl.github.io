@@ -11,8 +11,6 @@ role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/urbanpulse.webp"
     caption: "<strong>Above:</strong> Final design concept of the Urban Pulse application"
-  - image: "/assets/images/gen/projects/project-1-2.webp"
-    caption: "<strong>Above:</strong> Rear offices square design in contrast"
 gallery_limit: 2
 vimeoId: eQEaNh8p5iw
 pdf_file: "/files/UrbanPulse_FinalReport.pdf"
