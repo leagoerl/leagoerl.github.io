@@ -6,7 +6,9 @@ weight: 1
 thumbnail: "/assets/images/gen/projects/4_urbanpulse.webp"
 image: "/assets/images/gen/projects/4_urbanpulse.webp"
 categories: ["Innovation and Design Development"]
-client: "App Design for a new way to experience light"
+final report: 
+final presentation: "App Design for a new way to experience light"
+figma prototype: 
 role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/project-1-1.webp"
