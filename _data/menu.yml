@@ -28,7 +28,7 @@ main:
         description: "HICSS"
         url: /research/1_copingsystem/
     weight: 3
-  - name: Blog
+  - name: Posts
     url: /blog/
     weight: 4
   - name: About
