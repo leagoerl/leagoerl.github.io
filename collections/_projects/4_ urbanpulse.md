@@ -2,7 +2,7 @@
 layout: project
 title: "Mert"
 description: "Your unique atmosphere in public places"
-weight: 1
+weight: 4
 thumbnail: "/assets/images/gen/projects/urbanpulse.webp"
 image: "/assets/images/gen/projects/urbanpulse.webp"
 categories: ["Your unique atmosphere in public places"]

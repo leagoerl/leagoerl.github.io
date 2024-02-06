@@ -3,7 +3,7 @@ layout: project-right
 title: "Control Freedom"
 description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
 date: 2018-12-20
-weight: 3
+weight: 2
 thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-3-1.webp"
 client: "Eye Tracking Game for Virtual Reality"
