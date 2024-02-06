@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "How to make your website page load speed fast"
-date: 2022-02-13T09:49:03Z
-authors: ["Mike Vance"]
-categories: ["Branding"]
-description: Branding is an intrinsic part of your companies success, learn why your brand matters.
+title: "No Farmers No Food - Why we need to talk more about agriculture."
+date: 2023-09-28T09:49:03Z
+authors: ["Lea Goerl"]
+categories: ["Jugendbildung"]
+description: Work and discussion with generations about organic and conventional agriculture, what the soil has to do with the climate and why farmers are taking to the streets right now. 
 thumbnail: "/assets/images/gen/blog/blog-18-thumbnail.webp"
 image: "/assets/images/gen/blog/blog-18.webp"
 comments: false
