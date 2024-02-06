@@ -6,6 +6,9 @@ main:
     url: /projects/
     weight: 2
     child:
+      - name: "MERT"
+        description: "Physical product design"
+        url: /projects/5_mert/
       - name: "UrbanPulse"
         description: "App Design for a new way to experience light"
         url: /projects/4_urbanpulse/
