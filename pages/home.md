@@ -15,7 +15,7 @@ projects:
   view_more_button_text: ""
   view_more_button_link: ""
   view_more_button_align: ""
-  columns: 2 # 1 | 2 | 3 | 4
+  columns: 2 # 1 | 2 | 3| 4 | 5 | 6 
 
 research:
   heading: "Recent Research"

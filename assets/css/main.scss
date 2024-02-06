@@ -7,7 +7,7 @@ $primary: {{ site.colors.primary | default: '#EC255A' }};
 $primary-2: {{ site.colors.primary_2 | default: '#efc0cc' }};
 $primary-text: {{ site.colors.primary_text | default: '#f9fafb' }};
 $secondary:  {{ site.colors.secondary | default: '#702bf7' }};
-$base-bg: {{ site.colors.background | default: '#ffffff' }};
+$base-bg: {{ site.colors.background_1 | default: '#ffffff' }};
 $base-bg-2: {{ site.colors.background_2 | default: '#f9fafb' }};
 $base-bg-3: {{ site.colors.background_3 | default: '#f1f3f4' }};
 $base-text: {{ site.colors.text | default: '#111827' }};
