@@ -37,8 +37,6 @@ body_classes: page-home
 </div>
 {% endif %}
 
-<div class="section"></div>
-
 {% assign cards = site.projects %}
 {% if cards.size > 0 %}
 <div class="section bg-base-bg">
@@ -47,7 +45,7 @@ body_classes: page-home
      
       {% for card in cards limit: 6 %}
       <div
-        class="col-12 col-md-4 mb-gutter mt-gutter {% if forloop.first %}mt-0{% endif %} {% if forloop.last %}mb-0{% endif %} mt-md-0">
+        class="col-12 col-md-6 mb-gutter mt-gutter {% if forloop.first %}mt-0{% endif %} {% if forloop.last %}mb-0{% endif %} mt-md-0">
         {% include theme/cards/card-project.html
         title=card.title
         description=card.description
