@@ -8,7 +8,7 @@ main:
     child:
       - name: "MERT"
         description: "Physical product design"
-        url: /_projects/1_ mert.md
+        url: collections/_projects/1_ mert.md
       - name: "UrbanPulse"
         description: "App Design for a new way to experience light"
         url: /projects/2_urbanpulse/
