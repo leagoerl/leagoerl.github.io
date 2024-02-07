@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project-right
 title: "Urban Pulse"
 description: "Your unique atmosphere in public places"
 weight: 4

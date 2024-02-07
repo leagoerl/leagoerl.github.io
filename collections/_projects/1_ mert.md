@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: project-left
 title: "MERT"
 description: "The jacket that warms, cools and protects you."
 weight: 5
