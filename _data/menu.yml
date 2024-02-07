@@ -8,7 +8,7 @@ main:
     child:
       - name: "MERT"
         description: "Physical product design"
-        url: /projects/1_mert/
+        url: /projects/1_mert
       - name: "UrbanPulse"
         description: "App Design for a new way to experience light"
         url: /projects/2_urbanpulse/
@@ -17,7 +17,7 @@ main:
         url: /projects/3_moodmuse/
       - name: "ControlFreedom"
         description: "Eye Tracking Game for Virtual Reality"
-        url: /projects/4_controlfreedom/
+        url: /projects/4_controlfreedom
       - name: "myStress"
         description: "Detecting Technostress via technical usage behavior"
         url: /projects/5_myStress/
