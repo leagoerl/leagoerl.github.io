@@ -1,5 +1,5 @@
 ---
-layout: project-right
+layout: project-left
 title: "Control Freedom"
 description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
 date: 2018-12-20
