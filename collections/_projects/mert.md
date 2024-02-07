@@ -6,6 +6,7 @@ weight: 5
 thumbnail: "/assets/images/gen/projects/urbanpulse.webp"
 image: "/assets/images/gen/projects/urbanpulse.webp"
 categories: ["Your unique atmosphere in public places"]
+client: "Physical product design for 'Radln' in Munich 2035"
 role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/urbanpulse.webp"
