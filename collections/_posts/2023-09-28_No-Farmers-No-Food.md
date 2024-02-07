@@ -2,7 +2,7 @@
 layout: post
 title: "No Farmers No Food - Why we need to talk more about agriculture."
 weight: 2
-date: 2023-09-28T09:49:03Z
+date: 2023-09-28
 authors: ["Lea Goerl"]
 categories: ["Jugendbildung"]
 description: Work and discussion with generations about organic and conventional agriculture, what the soil has to do with the climate and why farmers are taking to the streets right now. 

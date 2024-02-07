@@ -31,7 +31,7 @@ posts:
   heading: "Recent Blog Posts"
   sub_heading: ""
   limit: 3
-  sort: date # date | weight
+  sort: weight
   view_more_button_text: ""
   view_more_button_link: ""
   view_more_button_align: ""

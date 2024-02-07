@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ideas to help your business grow"
-date: 2022-03-11T16:49:03Z
+title: "How to code{}?"
+date: 2022-03-11
 weight: 1
 authors: ["Mike Vance", "Marc Paulo"]
 categories: ["Branding", "Marketing"]
