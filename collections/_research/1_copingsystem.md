@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Towards Designing a Mobile Stress Coping Assistant"
-date: 2018-09-13T05:22:42Z
+date: 2018-09-13
 authors: ["Lea Goerl"]
 categories: ["Research"]
 description: "Hosting your website as a static site will improve performance and improve security."

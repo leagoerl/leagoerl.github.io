@@ -44,17 +44,17 @@ main:
 
 footer_primary:
   - name: "MERT"
-    url: /projects/1_mert/
+    url: /projects/mert/
   - name: "UrbanPulse"
-    url: /projects/2_urbanpulse/
+    url: /projects/urbanpulse/
   - name: "MoodMuse"
-    url: /projects/3_moodmuse/
+    url: /projects/moodmuse/
   - name: "ControlFreedom"
-    url: /projects/4_controlfreedom/
+    url: /projects/controlfreedom/
   - name: "myStress"
-    url: /projects/5_myStress/
+    url: /projects/myStress/
   - name: "energyTrading"
-    url: /projects/6_energyTrading/
+    url: /projects/energyTrading/
 
 footer_secondary:
   - name: Posts
