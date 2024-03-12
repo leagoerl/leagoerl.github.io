@@ -44,7 +44,7 @@ defaults:
       path: ""
       type: research
     values:
-      layout: research
+      layout: post
       weight: 999
   - scope:
       path: "images"
