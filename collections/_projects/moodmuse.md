@@ -14,6 +14,10 @@ gallery:
   - image: "/assets/images/gen/projects/moodmuse.webp"
   - image: "/assets/images/gen/projects/faceemotionrecognition.webp"
     caption: "Face Emotion Recognition with output = [[ Surprised, Happy, Neutral ], [ Happy, Sad, Neutral ], [ Happy, Neutral, Surprised ], [ Happy, Neutral, Angry ]], based on der FER2013 Dataset. "
+  - image: "/assets/images/gen/projects/mapping.webp"
+    caption: "Mapping Emotion-to-Text/Emotion-to-Music."
+  - image: "/assets/images/gen/projects/melody.webp"
+    caption: "Melody creation: The music logic behing it."
 ---
 
 ## Mood Muse is a unique AI tool that allows you to compose music just for you and your feelings. 
@@ -25,11 +29,6 @@ MoodMuse is based on a triple pipline architecture that goes through the process
 The 20s input is divided into 4 parts of 5s each. 
 
 While the FER2013 dataset is used for face emotion recognition, the emotion-to-text and emotion-to-music mapping has been specially created. Each part is assigned an emotion, which then generates the appropriate music for each snippet using the Python library midiutil. Each snippet is based on the previous musical components. MusicGen refines all snippets into a coherent piece of music. 
-
-
-![Mapping Emotion-to-Text/Emotion-to-Music.](/assets/images/gen/projects/mapping.webp)
-
-![Melody creation: The music logic behing it.](/assets/images/gen/projects/melody.webp)
 
 Restrictions and difficulties encountered during the project and in the solution are listed in more detail in the following final presentation. 
 

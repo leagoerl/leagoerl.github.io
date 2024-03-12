@@ -112,7 +112,7 @@ fonts:
   logo: "DM Sans"
 
 logo:
-  logo_text: "Jekyll Curate"
+  logo_text: "Lea Goerl"
   logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/logo/logo-mobile.png
   logo_image_invert: assets/images/logo/logo-invert.png
