@@ -2,7 +2,7 @@
 layout: project-left
 title: "Urban Pulse"
 description: "Your unique atmosphere in public places"
-date: 2021-12-20
+date: 2020-12-20
 weight: 6
 permalink: /projects/project-2
 thumbnail: "/assets/images/gen/projects/urbanpulse.webp"

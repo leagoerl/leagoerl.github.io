@@ -2,7 +2,7 @@
 layout: project-left # alternative layouts: project, project-left, project-right, project-top
 title: "MoodMuse"
 description: "Breathing new life into old industrial estates"
-date: 2022-12-20
+date: 2019-12-20
 weight: 3
 permalink: /projects/project-3
 thumbnail: "/assets/images/gen/projects/moodmuse.webp"
