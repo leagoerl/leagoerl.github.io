@@ -11,7 +11,7 @@ projects:
   heading: "Projects"
   sub_heading: ""
   limit: 6
-  sort: weight
+  sort: date
   view_more_button_text: ""
   view_more_button_link: ""
   view_more_button_align: ""

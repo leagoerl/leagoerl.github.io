@@ -1,6 +1,7 @@
 ---
 layout: project-left
 title: "Energy Trading"
+date: 2018-12-20
 description: "Regional Energy Trading through Blockchain"
 weight: 6
 permalink: /projects/project-6

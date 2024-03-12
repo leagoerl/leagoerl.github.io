@@ -53,6 +53,8 @@ footer_primary:
     url: /projects/4_controlfreedom/
   - name: "myStress"
     url: /projects/5_myStress/
+  - name: "energyTrading"
+    url: /projects/6_energyTrading/
 
 footer_secondary:
   - name: Posts

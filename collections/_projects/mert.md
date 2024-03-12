@@ -2,6 +2,7 @@
 layout: project-left
 title: "MERT"
 description: "The jacket that warms, cools and protects you."
+date: 2023-12-20
 weight: 1
 permalink: /projects/project-1
 thumbnail: "/assets/images/gen/projects/mert.webp"
