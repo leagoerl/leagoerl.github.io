@@ -5,8 +5,8 @@ date: 2018-09-13T05:22:42Z
 authors: ["Lea Goerl"]
 categories: ["Research"]
 description: "Hosting your website as a static site will improve performance and improve security."
-thumbnail: "/assets/images/gen/blog/blog-1-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-1.webp"
+thumbnail: "/assets/images/gen/post/blog-1-thumbnail.webp"
+image: "/assets/images/gen/post/blog-1.webp"
 ---
 
 Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
