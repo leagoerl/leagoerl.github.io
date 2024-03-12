@@ -37,7 +37,7 @@ main:
   - name: About
     url: /about/
     weight: 5
- - name: Contact
+  - name: Contact
     url: /contact/
     weight: 6
   
@@ -80,10 +80,10 @@ footer_tertiary:
 #    url: /terms-and-conditions/
 #    weight: 2
 
-bottom:
-  - name: Privacy Policy
-    url: /privacy-policy/
-    weight: 3
-  - name: Terms and Conditions
-    url: /terms-and-conditions/
-    weight: 4
+#bottom:
+#  - name: Privacy Policy
+#    url: /privacy-policy/
+#    weight: 3
+#  - name: Terms and Conditions
+#    url: /terms-and-conditions/
+#    weight: 4
