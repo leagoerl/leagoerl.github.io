@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "How to code{}?"
-date: 2022-03-11
-weight: 1
+date: 2023-10-01
 authors: ["Mike Vance", "Marc Paulo"]
 categories: ["Branding", "Marketing"]
 description: Branding is an intrinsic part of your companies success, learn why your brand matters.

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "No Farmers No Food - Why we need to talk more about agriculture."
-weight: 2
 date: 2023-09-28
 authors: ["Lea Goerl"]
 categories: ["Jugendbildung"]
