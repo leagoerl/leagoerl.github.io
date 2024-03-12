@@ -23,15 +23,19 @@ gallery:
 ## "Mert and me - together on the road"
 
 Problem Framing 1:
+
 Most cycling accidents happen during huge traffic jams at colder times of the day because the high temperatures force people to stay longer inside during daytime.
 
 Problem Framing 2:
+
 During traffic jams, a lot of different types of cyclers are on their way causing a lot of problems between sporty people, parents with kids, and commuters.
 
 Problem Framing 3:
+
 The reliance on technology for navigation is a key factor in cyclists being unaware of their environment. Furthermore, there are certain risks in regards of personal autonomy and privacy rising from the huge dependence.
 
 Problem Framing 4: 
+
 The infrastructure of the city was transformed from cars to bikes. Nevertheless, the infrastructure lacks certain ways to be both efficient and safe, resulting in more accidents.
 
 ## User
