@@ -5,8 +5,8 @@ date: 2018-09-13
 authors: ["Lea Goerl"]
 #categories: [""]
 description: "Hawaii International Conference on System Science 2022"
-thumbnail: "/assets/images/gen/post/research.webp"
-image: "/assets/images/gen/post/research.webp"
+thumbnail: "/assets/images/research/research.webp"
+image: "/assets/images/research/research.webp"
 ---
 
 Abstract
