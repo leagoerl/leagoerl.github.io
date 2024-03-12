@@ -7,7 +7,7 @@ weight: 3
 permalink: /projects/project-3
 thumbnail: "/assets/images/gen/projects/moodmuse.webp"
 image: "/assets/images/gen/projects/moodmuse.webp"
-categories: ["Development"]
+#categories: [""]
 client: "Making Music with Affective Computing and Empathic Artificial Intelligence"
 role: "Building Designer & Software Developer"
 gallery:

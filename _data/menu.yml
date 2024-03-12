@@ -29,7 +29,7 @@ main:
     child:
       - name: "Towards Designing a Mobile Stress Coping Assistant"
         description: "HICSS"
-        url: /research/1_copingsystem/
+        url: /research/copingsystem/
     weight: 3
   - name: Posts
     url: /posts/
@@ -69,7 +69,7 @@ footer_secondary:
 
 footer_tertiary:
   - name: "Towards Designing a Mobile Stress Coping Assistant"
-    url: /research/1_copingsystem
+    url: /research/copingsystem
 
 
 #footer_tertiary:

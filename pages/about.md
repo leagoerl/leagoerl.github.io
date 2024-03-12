@@ -1,9 +1,9 @@
 ---
 layout: basic
-title: "About Us"
+title: "About Me"
 date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
+description: "xx."
 image: "/assets/images/gen/content/content-5.webp"
 ---
 

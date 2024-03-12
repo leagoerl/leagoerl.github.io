@@ -7,7 +7,7 @@ weight: 1
 permalink: /projects/project-1
 thumbnail: "/assets/images/gen/projects/mert.webp"
 image: "/assets/images/gen/projects/mert.webp"
-categories: [""]
+#categories: [""]
 client: "Physical product design for 'Radln' in Munich 2035"
 role: "Building Designer"
 gallery:
