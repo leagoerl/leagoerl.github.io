@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "What is the Jamstack?"
-date: 2019-08-10
+title: "Digitalization in Care"
+date: 2021-07-26
 authors: ["Mike Vance"]
-categories: ["Branding"]
-description: Branding is an intrinsic part of your companies success, learn why your brand matters.
-thumbnail: "/assets/images/gen/blog/blog-5-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-5.webp"
-weight: 2
+categories: ["Branding", "Web Design"]
+description: Design systems are an important part of modern web development. Learn the best practices to scale your new design system.
+thumbnail: "/assets/images/gen/blog/blog-16-thumbnail.webp"
+image: "/assets/images/gen/blog/blog-16.webp"
 ---
+February 2024
 
 Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 

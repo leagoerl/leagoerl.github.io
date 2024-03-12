@@ -23,7 +23,7 @@ collections:
     permalink: /:collection/:path/
   posts:
     output: true
-    permalink: /blog/:path/
+    permalink: /:collection/:path/
 
 defaults:
   - scope:
@@ -144,7 +144,7 @@ mailchimp:
 
 contact_form: 
   use_netlify_form: false
-  use_formspree_form: true
+  use_formspree_form: false
   formspree_endpoint: https://formspree.io/f/moqyklqv
   netlify_form_name: "contact"
 
