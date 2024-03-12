@@ -42,9 +42,9 @@ defaults:
       weight: 999
   - scope:
       path: ""
-      type: posts
+      type: research
     values:
-      layout: research
+      layout: basic
   - scope:
       path: "images"
     values:
