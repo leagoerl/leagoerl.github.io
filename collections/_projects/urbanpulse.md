@@ -12,7 +12,9 @@ client: "App design for public light cooperations"
 role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/urbanpulse.webp"
-    caption: "<strong>Above:</strong> Final design concept of the Urban Pulse application"
+    caption: "<strong>Above:</strong> Final design concept of the Urban Pulse application."
+  - image: "/assets/images/gen/projects/urbanpulse2.webp"
+    caption: "<strong>Above:</strong> Selected bookable lamp (left), booking history (middle), positioning for emergencies (right)."
 gallery_limit: 2
 ---
 
@@ -28,9 +30,7 @@ UrbanPulse is an application providing the ability for individuals or social gro
  3. Controll ligth pollution in the urban area
  4. Increase awareness of own consumption
 
- The following product video gives a short wrap up of the key features of the application.
-
+ The following product video gives a short wrap up of the key features of the application:
  {% include framework/shortcodes/youtube.html id='eQEaNh8p5iw' %}
 
- Product Video of Urban Pulse: https://www.youtube.com/watch?v=eQEaNh8p5iw
 
