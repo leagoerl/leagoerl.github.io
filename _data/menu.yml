@@ -21,6 +21,9 @@ main:
       - name: "myStress"
         description: "Detecting Technostress via technical usage behavior"
         url: /projects/project-5
+      - name: "EnergyTrading"
+        description: "Regional Energy Trading through Blockchain"
+        url: /projects/project-6
   - name: Research
     url: /research/
     child:

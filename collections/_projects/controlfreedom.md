@@ -5,8 +5,8 @@ description: "A spectacular building, designed by the Valencian architect Santia
 date: 2018-12-20
 weight: 2
 permalink: /projects/project-4
-thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-3-1.webp"
+thumbnail: "/assets/images/gen/projects/controllfreedom.webp"
+image: "/assets/images/gen/projects/controllfreedom.webp"
 client: "Eye Tracking Game for Virtual Reality"
 categories: ["Development"]
 role: "Building Designer & Software Developer"
