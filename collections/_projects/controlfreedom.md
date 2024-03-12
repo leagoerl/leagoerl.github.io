@@ -2,7 +2,7 @@
 layout: project-left
 title: "Control Freedom"
 description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
-date: 2020-12-20
+date: 2021-12-20
 weight: 4
 permalink: /projects/project-4
 thumbnail: "/assets/images/gen/projects/controllfreedom.webp"
