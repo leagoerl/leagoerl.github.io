@@ -24,6 +24,9 @@ collections:
   posts:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path
 
 defaults:
   - scope:
@@ -37,6 +40,11 @@ defaults:
     values:
       layout: post
       weight: 999
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: research
   - scope:
       path: "images"
     values:

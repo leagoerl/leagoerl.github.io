@@ -11,16 +11,28 @@ categories: ["Development"]
 client: "Making Music with Affective Computing and Empathic Artificial Intelligence"
 role: "Building Designer & Software Developer"
 gallery:
-  - image: "/assets/images/gen/projects/project-2-1.webp"
-  - image: "/assets/images/gen/projects/project-2-2.webp"
-  - image: "/assets/images/gen/projects/project-2-5.webp"
-  - image: "/assets/images/gen/projects/project-2-4.webp"
-  - image: "/assets/images/gen/projects/project-2-3.webp"
-  - image: "/assets/images/gen/projects/project-2-6.webp"
+  - image: "/assets/images/gen/projects/moodmuse.webp"
+  - image: "/assets/images/gen/projects/faceemotionrecognition.webp"
+    caption: "Face Emotion Recognition with output = [[ Surprised, Happy, Neutral ], [ Happy, Sad, Neutral ], [ Happy, Neutral, Surprised ], [ Happy, Neutral, Angry ]], based on der FER2013 Dataset. "
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+## Mood Muse is a unique AI tool that allows you to compose music just for you and your feelings. 
 
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
+MoodMuse is based on a triple pipline architecture that goes through the process of music generation from an 20s video input to an 20s music output that underlines the emotion of the video in 4-8min. 
 
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.
+![Pipeline Overview](/assets/images/gen/projects/pipeline.webp)
+
+The 20s input is divided into 4 parts of 5s each. 
+
+While the FER2013 dataset is used for face emotion recognition, the emotion-to-text and emotion-to-music mapping has been specially created. Each part is assigned an emotion, which then generates the appropriate music for each snippet using the Python library midiutil. Each snippet is based on the previous musical components. MusicGen refines all snippets into a coherent piece of music. 
+
+
+![Mapping Emotion-to-Text/Emotion-to-Music.](/assets/images/gen/projects/mapping.webp)
+
+![Melody creation: The music logic behing it.](/assets/images/gen/projects/melody.webp)
+
+Restrictions and difficulties encountered during the project and in the solution are listed in more detail in the following final presentation. 
+
+[Download the final presentation here](/assets/files/MoodMuse_FinalPresentation.pdf)
+
+This project was developed as part of the course "Affective Computing - Empathic Artifical Intelligence" at LMU under Dr. Marco Maier together with Franziska Woerle, Laura Schroeder, Ardit Mazreku and Phi Linh Phan.

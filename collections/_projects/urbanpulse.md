@@ -7,7 +7,7 @@ weight: 6
 permalink: /projects/project-2
 thumbnail: "/assets/images/gen/projects/urbanpulse.webp"
 image: "/assets/images/gen/projects/urbanpulse.webp"
-#categories: ["Development"]
+categories: ["Development"]
 client: "App design for public light cooperations"
 role: "Building Designer"
 gallery:
