@@ -2,7 +2,7 @@
 layout: project-left
 title: "Urban Pulse"
 description: "Your unique atmosphere in public places"
-weight: 4
+weight: 6
 permalink: /projects/project-2
 thumbnail: "/assets/images/gen/projects/urbanpulse.webp"
 image: "/assets/images/gen/projects/urbanpulse.webp"

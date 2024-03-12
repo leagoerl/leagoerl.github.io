@@ -2,7 +2,7 @@
 layout: project-left
 title: "MERT"
 description: "The jacket that warms, cools and protects you."
-weight: 5
+weight: 1
 permalink: /projects/project-1
 thumbnail: "/assets/images/gen/projects/mert.webp"
 image: "/assets/images/gen/projects/mert.webp"

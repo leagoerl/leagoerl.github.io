@@ -3,7 +3,7 @@ layout: project-left
 title: "myStress"
 description: "An open source machine learning library written in Python"
 date: 2018-12-20
-weight: 1
+weight: 5
 permalink: /projects/project-5
 thumbnail: "/assets/images/gen/projects/mystress.webp"
 image: "/assets/images/gen/projects/mystress.webp"
