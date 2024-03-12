@@ -74,7 +74,8 @@ exclude:
 # -------------------
 # Theme Config
 # --------------------
-title: "Jekyll Curate"
+#Jekyll Curate
+title: "Lea Goerl"
 category_dir: category
 
 colors:

@@ -72,7 +72,7 @@ body_classes: page-home
       {% for card in cards limit: 3 %}
       <div
         class="col-12 col-md-4 mb-gutter mt-gutter {% if forloop.first %}mt-0{% endif %} {% if forloop.last %}mb-0{% endif %} mt-md-0">
-        {% include theme/cards/card-research.html
+        {% include theme/cards/card-post.html
         title=card.title
         description=card.description
         url=card.url

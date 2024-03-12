@@ -47,6 +47,6 @@ The user group for this project is the everyday person, spanning across commuter
 
 
 
-[An report about the design process can be read here:](/assets/files/MERT_Report.pdf)
+[An report about the design process can be accessed here.](/assets/files/MERT_Report.pdf)
 
 This project was developed as part of the course "Design Workshop" at LMU under Steven Stannard, Laura Schütz and Prof. Dr. Alexander Wiethoff together with Amiin Najjar, Lukas Plenk, Mert Türkekul and Yunuo Zhang. 
