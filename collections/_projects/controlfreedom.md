@@ -9,7 +9,7 @@ thumbnail: "/assets/images/gen/projects/controllfreedom.webp"
 image: "/assets/images/gen/projects/controllfreedom.webp"
 client: "Eye Tracking Game for Virtual Reality"
 categories: ["Development"]
-role: "Building Designer & Software Developer"
+role: "Building Designer & Developer"
 gallery:
   - image: "/assets/images/gen/projects/project-3-1.webp"
   - image: "/assets/images/gen/projects/project-3-4.webp"

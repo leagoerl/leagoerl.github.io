@@ -30,5 +30,7 @@ UrbanPulse is an application providing the ability for individuals or social gro
 
  The following product video gives a short wrap up of the key features of the application.
 
+ {% include framework/shortcodes/youtube.html id='eQEaNh8p5iw' %}
+
  Product Video of Urban Pulse: https://www.youtube.com/watch?v=eQEaNh8p5iw
 

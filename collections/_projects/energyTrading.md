@@ -7,12 +7,12 @@ weight: 6
 permalink: /projects/project-6
 thumbnail: "/assets/images/gen/projects/energytrading.webp"
 image: "/assets/images/gen/projects/energytrading.webp"
-categories: ["Your unique atmosphere in public places"]
-client: "App design for public light cooperations"
-role: "Building Designer"
+categories: ["Development"]
+client: "Regional Energy Trading through Blockchain"
+role: "Developer"
 gallery:
-  - image: "/assets/images/gen/projects/urbanpulse.webp"
-    caption: "<strong>Above:</strong> Final design concept of the Urban Pulse application"
+  - image: "/assets/images/gen/projects/energytrading.webp"
+    caption: "<strong>Above:</strong> XY"
 gallery_limit: 2
 ---
 
