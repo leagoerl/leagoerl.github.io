@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Working With Jekyll"
+title: "How to code{}?"
 date: 2021-07-23
 authors: ["Mike Vance"]
 categories: ["Branding"]

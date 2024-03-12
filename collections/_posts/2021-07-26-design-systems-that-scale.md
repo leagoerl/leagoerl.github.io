@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building design systems that scale across different teams"
+title: "No Famers No Food"
 date: 2021-07-26
 authors: ["Mike Vance"]
 categories: ["Branding", "Web Design"]
