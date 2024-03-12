@@ -1,16 +1,13 @@
 ---
 layout: post
 title: "Towards Designing a Mobile Stress Coping Assistant"
-date: 2018-09-13T05:22:42Z
+date: 2018-09-13
 authors: ["Lea Goerl"]
 categories: ["Research"]
-description: "Hosting your website as a static site will improve performance and improve security."
-thumbnail: "/assets/images/gen/blog/blog-1-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-1.webp"
+description: "Hawaii International Conference on System Science 2022"
+thumbnail: "/assets/images/gen/post/blog-1-thumbnail.webp"
+image: "/assets/images/gen/post/blog-1.webp"
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+Abstract
 
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
-
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.

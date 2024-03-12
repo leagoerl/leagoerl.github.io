@@ -20,8 +20,8 @@ projects:
 research:
   heading: "Recent Research"
   sub_heading: ""
-  limit: 2
-  sort: weight
+  limit: 4
+  sort: date
   view_more_button_text: ""
   view_more_button_link: ""
   view_more_button_align: ""
@@ -30,8 +30,8 @@ research:
 posts:
   heading: "Recent Blog Posts"
   sub_heading: ""
-  limit: 3
-  sort: weight
+  limit: 4
+  sort: date
   view_more_button_text: ""
   view_more_button_link: ""
   view_more_button_align: ""

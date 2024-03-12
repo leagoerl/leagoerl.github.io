@@ -2,7 +2,7 @@
 layout: project-left
 title: "Urban Pulse"
 description: "Your unique atmosphere in public places"
-date: 2021-12-20
+date: 2020-12-20
 weight: 6
 permalink: /projects/project-2
 thumbnail: "/assets/images/gen/projects/urbanpulse.webp"
@@ -30,7 +30,5 @@ UrbanPulse is an application providing the ability for individuals or social gro
 
  The following product video gives a short wrap up of the key features of the application.
 
- [![Product Video of Urban Pulse]
- (https://i3.ytimg.com/vi/eQEaNh8p5iw/maxresdefault.jpg)]
- (https://www.youtube.com/watch?v=eQEaNh8p5iw
+ Product Video of Urban Pulse: https://www.youtube.com/watch?v=eQEaNh8p5iw
 

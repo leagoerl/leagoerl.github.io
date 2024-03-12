@@ -62,7 +62,7 @@ body_classes: page-home
 </div>
 {% endif %}
 
-
+<!-- 
 {% assign cards = site.posts %}
 {% if cards.size > 0 %}
 <div class="section bg-base-bg-2">
@@ -72,7 +72,7 @@ body_classes: page-home
       {% for card in cards limit: 3 %}
       <div
         class="col-12 col-md-4 mb-gutter mt-gutter {% if forloop.first %}mt-0{% endif %} {% if forloop.last %}mb-0{% endif %} mt-md-0">
-        {% include theme/cards/card-post.html
+        {% include theme/cards/card-research.html
         title=card.title
         description=card.description
         url=card.url
@@ -83,6 +83,7 @@ body_classes: page-home
   </div>
 </div>
 {% endif %}
+-->
 
 <div class="section pt-0"></div>
 
