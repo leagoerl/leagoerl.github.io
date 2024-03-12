@@ -12,19 +12,18 @@ client: "Making Music with Affective Computing and Empathic Artificial Intellige
 role: "Building Designer & Software Developer"
 gallery:
   - image: "/assets/images/gen/projects/moodmuse.webp"
+    caption: "<strong>Above:</strong> FrontEnd MoodMuse with input characteristics on the right and a diashow on the left."
   - image: "/assets/images/gen/projects/faceemotionrecognition.webp"
-    caption: "Face Emotion Recognition with output = [[ Surprised, Happy, Neutral ], [ Happy, Sad, Neutral ], [ Happy, Neutral, Surprised ], [ Happy, Neutral, Angry ]], based on der FER2013 Dataset. "
+    caption: "<strong>Above:</strong> Face Emotion Recognition with output = [[ Surprised, Happy, Neutral ], [ Happy, Sad, Neutral ], [ Happy, Neutral, Surprised ], [ Happy, Neutral, Angry ]], based on der FER2013 Dataset. "
   - image: "/assets/images/gen/projects/mapping.webp"
-    caption: "Mapping Emotion-to-Text/Emotion-to-Music."
+    caption: "<strong>Above:</strong> Mapping Emotion-to-Text/Emotion-to-Music."
   - image: "/assets/images/gen/projects/melody.webp"
-    caption: "Melody creation: The music logic behing it."
+    caption: "<strong>Above:</strong> Melody creation: The music logic behing it."
 ---
 
 ## Mood Muse is a unique AI tool that allows you to compose music just for you and your feelings. 
 
 MoodMuse is based on a triple pipline architecture that goes through the process of music generation from an 20s video input to an 20s music output that underlines the emotion of the video in 4-8min. 
-
-![Pipeline Overview](/assets/images/gen/projects/pipeline.webp)
 
 The 20s input is divided into 4 parts of 5s each. 
 
