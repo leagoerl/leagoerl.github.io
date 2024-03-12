@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: post
 title: "Towards Designing a Mobile Stress Coping Assistant"
 date: 2018-09-13T05:22:42Z
 authors: ["Lea Goerl"]
