@@ -5,10 +5,10 @@ description: "Breathing new life into old industrial estates"
 date: 2018-12-20
 weight: 3
 permalink: /projects/project-3
-thumbnail: "/assets/images/gen/projects/project-2-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-2-1.webp"
+thumbnail: "/assets/images/gen/projects/moodmuse.webp"
+image: "/assets/images/gen/projects/moodmuse.webp"
 categories: ["Development"]
-client: "Making Music with affective Computing and Empathic Artificial Intelligence"
+client: "Making Music with Affective Computing and Empathic Artificial Intelligence"
 role: "Building Designer & Software Developer"
 gallery:
   - image: "/assets/images/gen/projects/project-2-1.webp"
