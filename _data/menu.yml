@@ -32,7 +32,7 @@ main:
         url: /research/1_copingsystem/
     weight: 3
   - name: Posts
-    url: /blog/
+    url: /posts/
     weight: 4
   - name: About
     url: /about/
@@ -44,26 +44,26 @@ main:
 
 footer_primary:
   - name: "MERT"
-    url: /projects/1_mert/
+    url: /projects/mert/
   - name: "UrbanPulse"
-    url: /projects/2_urbanpulse/
+    url: /projects/urbanpulse/
   - name: "MoodMuse"
-    url: /projects/3_moodmuse/
+    url: /projects/moodmuse/
   - name: "ControlFreedom"
-    url: /projects/4_controlfreedom/
+    url: /projects/controlfreedom/
   - name: "myStress"
-    url: /projects/5_myStress/
+    url: /projects/myStress/
   - name: "energyTrading"
-    url: /projects/6_energyTrading/
+    url: /projects/energyTrading/
 
 footer_secondary:
   - name: Posts
-    url: /blog/
+    url: /posts/
     weight: 2
   - name: About
     url: /about/
     weight: 3
-  - name: Contact
+ -  name: Contact
     url: /contact/
     weight: 4
 
@@ -80,10 +80,10 @@ footer_tertiary:
 #    url: /terms-and-conditions/
 #    weight: 2
 
-bottom:
-  - name: Privacy Policy
-    url: /privacy-policy/
-    weight: 3
-  - name: Terms and Conditions
-    url: /terms-and-conditions/
-    weight: 4
+#bottom:
+#  - name: Privacy Policy
+#    url: /privacy-policy/
+#    weight: 3
+#  - name: Terms and Conditions
+#    url: /terms-and-conditions/
+#    weight: 4
