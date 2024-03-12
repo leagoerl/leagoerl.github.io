@@ -23,7 +23,7 @@ collections:
     permalink: /:collection/:path/
   posts:
     output: true
-    permalink: /blog/:path/
+    permalink: /:collection/:path/
 
 defaults:
   - scope:
