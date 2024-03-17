@@ -36,10 +36,13 @@ main:
     weight: 4
     child:
       - name: "Digitalization in Care"
+        description: "Seminar for Nursing trainees"
         url: /posts/post-3
       - name: "How to code{}?"
+        description: "Seminar for children"
         url: /posts/post-2
       - name: "No Famers No Food"
+        description: "Intergenerational seminar"
         url: /posts/post-1
   - name: About
     url: /about/
