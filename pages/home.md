@@ -28,7 +28,7 @@ research:
   columns: 2 # 1 | 2 
 
 posts:
-  heading: "Recent Blog Posts"
+  heading: "Recent Posts"
   sub_heading: ""
   limit: 4
   sort: date
