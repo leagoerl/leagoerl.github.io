@@ -9,3 +9,6 @@ thumbnail: "/assets/images/gen/blog/blog-16-thumbnail.webp"
 image: "/assets/images/gen/blog/blog-16.webp"
 ---
 
+September 2023
+
+Coming Soon..
