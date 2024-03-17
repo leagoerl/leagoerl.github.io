@@ -12,6 +12,4 @@ client: "Regional Energy Trading through Blockchain"
 role: "Developer"
 gallery:
   - image: "/assets/images/gen/projects/energytrading.webp"
-    caption: "<strong>Above:</strong> XY"
-gallery_limit: 2
 ---

@@ -5,8 +5,8 @@ date: 2023-09-01
 #authors: [""]
 #categories: [""]
 description: Intergenerational 5 days seminar to discuss about the inpact of agriculture and give insights.
-thumbnail: "/assets/images/gen/blog/blog-16-thumbnail.webp"
-image: "/assets/images/gen/blog/blog-16.webp"
+thumbnail: "/assets/images/gen/post/farmer.webp"
+image: "/assets/images/gen/post/farmer.webp"
 ---
 
 September 2023

@@ -11,7 +11,5 @@ client: "Eye Tracking Game for Virtual Reality"
 #categories: [""]
 role: "Building Designer & Developer"
 gallery:
-  - image: "/assets/images/gen/projects/project-3-1.webp"
-  - image: "/assets/images/gen/projects/project-3-4.webp"
-  - image: "/assets/images/gen/projects/project-3-7.webp"
+  - image: "/assets/images/gen/projects/controllfreedom.webp"
 ---
