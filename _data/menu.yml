@@ -34,6 +34,13 @@ main:
   - name: Posts
     url: /posts/
     weight: 4
+    child:
+      - name: "Digitalization in Care"
+        url: /posts/post-3
+      - name: "How to code{}?"
+        url: /posts/post-2
+      - name: "No Famers No Food"
+        url: /posts/post-1
   - name: About
     url: /about/
     weight: 5

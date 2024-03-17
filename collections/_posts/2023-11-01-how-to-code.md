@@ -2,6 +2,7 @@
 layout: post
 title: "How to code{}?"
 date: 2023-11-01
+permalink: /posts/post-2
 #authors: [""]
 #categories: [""]
 description: Youth seminar that teaches programming skills for Websites and Arduinos in a fun way. 

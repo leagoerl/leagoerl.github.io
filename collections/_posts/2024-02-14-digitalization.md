@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Digitalization in Care"
+permalink: /posts/post-3
 date: 2024-02-14
 #authors: [""]
 #categories: [""]
