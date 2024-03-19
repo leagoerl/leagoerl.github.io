@@ -3,7 +3,7 @@ layout: post
 title: "How to code{}?"
 date: 2023-11-01
 permalink: /posts/post-2
-#authors: [""]
+authors: ["Lea Goerl"]
 #categories: [""]
 description: Youth seminar that teaches programming skills for Websites and Arduinos in a fun way. 
 thumbnail: "/assets/images/gen/post/code1.webp"
