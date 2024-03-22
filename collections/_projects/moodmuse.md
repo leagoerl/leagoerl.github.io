@@ -4,7 +4,7 @@ title: "MoodMuse"
 description: "Breathing new life into old industrial estates"
 date: 2019-12-20
 weight: 3
-permalink: /projects/project-3
+permalink: /projects/project-4
 thumbnail: "/assets/images/gen/projects/moodmuse.webp"
 image: "/assets/images/gen/projects/moodmuse.webp"
 #categories: [""]

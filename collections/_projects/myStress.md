@@ -4,7 +4,7 @@ title: "myStress"
 description: "An open source machine learning library written in Python"
 date: 2022-12-20
 weight: 5
-permalink: /projects/project-5
+permalink: /projects/project-6
 thumbnail: "/assets/images/gen/projects/mystress.webp"
 image: "/assets/images/gen/projects/mystress.webp"
 client: "Detecting Technostress via technical usage behavior"

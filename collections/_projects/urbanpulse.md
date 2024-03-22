@@ -4,7 +4,7 @@ title: "Urban Pulse"
 description: "Your unique atmosphere in public places"
 date: 2020-12-20
 weight: 6
-permalink: /projects/project-2
+permalink: /projects/project-3
 thumbnail: "/assets/images/gen/projects/urbanpulse.webp"
 image: "/assets/images/gen/projects/urbanpulse.webp"
 #categories: [""]

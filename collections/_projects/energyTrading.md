@@ -4,7 +4,7 @@ title: "Energy Trading"
 date: 2023-12-20
 description: "Regional Energy Trading through Blockchain"
 weight: 6
-permalink: /projects/project-6
+permalink: /projects/project-7
 thumbnail: "/assets/images/gen/projects/energytrading.webp"
 image: "/assets/images/gen/projects/energytrading.webp"
 #categories: [""]
