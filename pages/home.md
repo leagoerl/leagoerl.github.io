@@ -10,12 +10,12 @@ subscribe: false
 projects:
   heading: "Projects"
   sub_heading: ""
-  limit: 6
+  limit: 9
   sort: date
   view_more_button_text: ""
   view_more_button_link: ""
   view_more_button_align: ""
-  columns: 2 # 1 | 2 | 3| 4 | 5 | 6 
+  columns: 2 # 1 | 2 | 3| 4 | 5 | 6 | 7 | 8 | 9
 
 research:
   heading: "Recent Research"
