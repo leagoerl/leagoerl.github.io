@@ -9,7 +9,7 @@ thumbnail: "/assets/images/gen/projects/mentalynx.webp"
 image: "/assets/images/gen/projects/mentalynx.webp"
 #categories: [""]
 client: "Hardware Building and Programming"
-role: ""
+role: "Developer, Designer"
 gallery:
   - image: "/assets/images/gen/projects/mentalynx.webp"
     caption: "<strong>Above:</strong> Sketching of Mentalynx." 
