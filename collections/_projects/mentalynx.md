@@ -5,7 +5,7 @@ description: "Sketching with Hardware - Data Physicalisation for Mental Health"
 date: 2017-12-20
 weight: 6
 permalink: /projects/project-2
-thumbnail: "/assets/images/gen/projects/mentalynx.webp"
+thumbnail: "/assets/images/gen/projects/menta00.webp"
 image: "/assets/images/gen/projects/mentalynx.webp"
 #categories: [""]
 client: "Hardware Building and Programming"
@@ -15,13 +15,13 @@ gallery:
     caption: "<strong>Above:</strong> Sketching of Mentalynx." 
   - image: "/assets/images/gen/projects/mobile.webp"
     caption: "<strong>Above:</strong> Sketching of second idea Mobilé."
-  - image: "//assets/images/gen/projects/menta0.webp"
+  - image: "/assets/images/gen/projects/menta0.webp"
     caption: "<strong>Above:</strong> Servomotor construction for each cubus so in total 16."
-  - image: "//assets/images/gen/projects/menta5.webp"
+  - image: "/assets/images/gen/projects/menta5.webp"
     caption: "<strong>Above:</strong> Gearwheel construction on each cube, which is connected to the gearwheel on the servomotor construction and thus rotates the cube." 
-  - image: "//assets/images/gen/projects/menta4.webp"
+  - image: "/assets/images/gen/projects/menta4.webp"
     caption: "<strong>Above:</strong> Electrical wiring. Each servomotor is controlled individually."  
-  - image: "//assets/images/gen/projects/menta3.webp"
+  - image: "/assets/images/gen/projects/menta3.webp"
     caption: "<strong>Above:</strong> Final construction." 
 ---
 Topic: Data Physicalisation for Mental Health without screens and anonymity of the data presentation so that nothing points directly to mental health data. Only if you know it.
